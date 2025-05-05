@@ -1,9 +1,9 @@
 #include<stdio.h>
-#define start main
-#define begin {
-#define end }
+#define home main
+#define suru {
+#define ses }
 #define PRINT printf
 
-int start() begin
-    PRINT("I rewrote main function!\n");
-end
+int home() suru
+    PRINT("Define Tricks !\n");
+ses 
