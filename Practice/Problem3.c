@@ -8,7 +8,7 @@ int main() {
        scanf("%d",&n);
        result = table(n);
        printf("%d \n ",result);
-    return 0;
+    return result;
 }
 
 int table(int n){
