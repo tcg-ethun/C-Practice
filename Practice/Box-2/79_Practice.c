@@ -1,9 +1,10 @@
 #include<stdio.h>
 int main()  {
-       int a,b,sum;
+       int a,b,c,sum;
        a=50;
        b=40;
-       sum=a+b;
+       c=20;
+       sum=(a+b)-c;
        printf("%d \n",sum);
  return 0;
 }
